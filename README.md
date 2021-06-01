@@ -5,24 +5,27 @@ An introduction to the Microverse' gitflow. This is an example of how we can set
 
 In this project, I used only HTML and CSS
 
-Built With
+## Built With
 HTML 
 CSS
 
-Getting Started
+
+## Getting Started
+
 To get a local copy up and running follow normal steps.
 
 Prerequisites
 Refer to Linters Config for project setup guide.
 
-Author
-👤 Tacettin Kustu
+## Author
+👤 **Tacettin Kustu**
 
-GitHub: @tacettinkustu
-Twitter: @tacettinkustu
-LinkedIn: tacettinkustu
+- GitHub: [@tacettinkustu](https://github.com/tacettinkustu)
+- LinkedIn: [tacettinkustu](https://www.linkedin.com/in/tacettin-k%C3%BCst%C3%BC-aaba721b5/)
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-Show your support
+## Show your support
+
 Give a ⭐️ if you like this project!
+
