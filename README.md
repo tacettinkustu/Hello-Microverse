@@ -2,7 +2,7 @@
 An introduction to the Microverse' gitflow
 
 Built With
-HTML
+HTML and
 CSS
 
 Feel free to check the issues page.
